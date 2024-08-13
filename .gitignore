@@ -1,0 +1,11 @@
+# Ignore .terraform directory
+.terraform/
+
+# Ignore files with .lock.hcl extension
+*.lock.hcl
+
+# Ignore files with .tfstate extension
+*.tfstate
+
+# Ignore files with .backup extension
+*.backup
